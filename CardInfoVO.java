@@ -11,19 +11,19 @@ public class CardInfoVO implements Serializable {
 
 	private String url = "http://3030.ij120.zoenet.cn/api/cardManage/getDefaultCard";
 
-	private String patientId = "268d9bf35c9021831c3c4ddcfdaa201a";
+	private String patientId = "268d9bf35c9021831c3c4xxxx";
 
-	private String cardId = "6df543f4d81443f19638105b64ac4fce";
+	private String cardId = "6df543f4d81443f19638xxxxx";
 
-	private String idCardNo = "430523199005291568";
+	private String idCardNo = "4305231xxxxxxxxxxxxxxxxx";
 	
-	private String icCardNo = "1002486";
+	private String icCardNo = "xxxxx";
 
-	private String patientName = "谢媚";
+	private String patientName = "谢x";
 
-	private String telephone = "18318054513";
+	private String telephone = "183xxxx451x";
 	
-	private String userId = "57ffcec4e1e44581907caa79af884181";
+	private String userId = "57ffcec4e1e44581907xxxxxxxxxx";
 
 	public String getIcCardNo() {
 		return icCardNo;
